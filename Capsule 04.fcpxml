@@ -265,15 +265,9 @@
                     <video offset="4249989744/72000s" ref="r13" duration="5009004/72000s" start="4249989744/72000s">
                         <audio lane="-1" offset="2833326496/48000s" ref="r13" duration="3339336/48000s" start="2833326496/48000s" role="dialogue" srcCh="1, 2"/>
                     </video>
-<<<<<<< HEAD
-                    <clip lane="1" offset="177139963/3000s" name="2014-04-22 18:04:33" duration="492492/72000s" start="89326237/1500s" tcFormat="NDF">
-                        <video offset="4287431148/72000s" ref="r14" duration="720720/72000s" start="4287431148/72000s">
-                            <audio lane="-1" offset="2858287432/48000s" ref="r14" duration="480480/48000s" start="2858287432/48000s" role="dialogue" srcCh="1, 2"/>
-=======
                     <clip lane="1" offset="1417043628/24000s" name="2014-04-22 18:04:33" duration="720720/72000s" start="1429143716/24000s" tcFormat="NDF">
                         <video offset="4287431148/72000s" ref="r16" duration="720720/72000s" start="4287431148/72000s">
                             <audio lane="-1" offset="2858287432/48000s" ref="r16" duration="480480/48000s" start="2858287432/48000s" role="dialogue" srcCh="1, 2"/>
->>>>>>> FETCH_HEAD
                         </video>
                         <metadata>
                             <md key="com.apple.proapps.studio.reel" value="Jour 01"/>
