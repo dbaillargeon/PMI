@@ -211,7 +211,7 @@
                         <conform-rate scaleEnabled="0" srcFrameRate="29.97"/>
                         <video offset="0s" ref="r7" duration="301301/30000s"/>
                     </clip>
-                    <title lane="2" offset="1409719311/24000s" ref="r8" name="Basic Lower Third: Catherine Lessard" duration="2657655/120000s" start="86486400/24000s">
+                    <title lane="2" offset="1409719311/24000s" ref="r8" name="Basic Lower Third: Catherine Lessard" duration="1021020/120000s" start="86486400/24000s">
                         <param name="Position" key="9999/999166631/999166633/1/100/101" value="-700.749 -333.422"/>
                         <param name="Position" key="9999/999166631/999169525/1/100/101" value="-701.601 -420.774"/>
                         <text>
