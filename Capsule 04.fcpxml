@@ -2,7 +2,7 @@
 <!DOCTYPE fcpxml>
 
 <fcpxml version="1.3">
-    <project name="Capsule 04" uid="EB9DD59C-012A-4465-8687-3A4B39A96F7C" eventID="833E9EBC-D6F7-48BB-9987-C430EA6F8633" location="file:///Volumes/RAID%20Data%20HD/PMI%20Gala%202014-04-22.fcpbundle/Capsule%2004%204/Capsule%2004/">
+    <project name="Capsule 04" uid="027EE6F0-4AA9-477C-A22A-621635172F4B" eventID="833E9EBC-D6F7-48BB-9987-C430EA6F8633" location="file:///Volumes/RAID%20Data%20HD/PMI%20Gala%202014-04-22.fcpbundle/Capsule%2004%204/Capsule%2004/">
         <resources>
             <format id="r1" name="FFVideoFormat1080p2398" frameDuration="1001/24000s" width="1920" height="1080"/>
             <projectRef id="r2" name="2014-04-23" uid="6995E3F1-E533-4A2E-AECD-D9E6BADA3A6E"/>
@@ -260,7 +260,7 @@
                     <video offset="4249989744/72000s" ref="r15" duration="5009004/72000s" start="4249989744/72000s">
                         <audio lane="-1" offset="2833326496/48000s" ref="r15" duration="3339336/48000s" start="2833326496/48000s" role="dialogue" srcCh="1, 2"/>
                     </video>
-                    <clip lane="1" offset="177139963/3000s" name="2014-04-22 18:04:33" duration="492492/72000s" start="89326237/1500s" tcFormat="NDF">
+                    <clip lane="1" offset="1417043628/24000s" name="2014-04-22 18:04:33" duration="720720/72000s" start="1429143716/24000s" tcFormat="NDF">
                         <video offset="4287431148/72000s" ref="r16" duration="720720/72000s" start="4287431148/72000s">
                             <audio lane="-1" offset="2858287432/48000s" ref="r16" duration="480480/48000s" start="2858287432/48000s" role="dialogue" srcCh="1, 2"/>
                         </video>
