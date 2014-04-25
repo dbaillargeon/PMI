@@ -2,7 +2,7 @@
 <!DOCTYPE fcpxml>
 
 <fcpxml version="1.3">
-    <project name="Capsule 04" uid="D1C9E8F7-1935-4DA9-AF07-9BB8E8935410" eventID="051CFECF-5A20-4C96-9D19-F4C822FE1084" location="file:///Volumes/Data%20HD/PMI%20-%20Gala%20Excellence%20-%202014-04-23.fcpbundle/2014-04-23/Capsule%2004/">
+    <project name="Capsule 04" uid="6ACCA3A5-E505-4E3A-90CF-ED03223FF4C7" eventID="051CFECF-5A20-4C96-9D19-F4C822FE1084" location="file:///Volumes/Data%20HD/PMI%20-%20Gala%20Excellence%20-%202014-04-23.fcpbundle/2014-04-23/Capsule%2004/">
         <resources>
             <format id="r1" name="FFVideoFormat1080p2398" frameDuration="1001/24000s" width="1920" height="1080"/>
             <asset id="r2" name="2014-04-22 18:07:12" uid="E8C6D0D69C52CB8E9757ADE88D08B3D1" src="file:///Volumes/Data%20HD/PMI%20-%20Gala%20Excellence%20-%202014-04-23.fcpbundle/2014-04-23/Original%20Media/2014-04-22%2018_07_12%20(id).mov" start="4291647360/72000s" duration="1045044/72000s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
@@ -258,7 +258,7 @@
                     <video offset="4249989744/72000s" ref="r13" duration="5009004/72000s" start="4249989744/72000s">
                         <audio lane="-1" offset="2833326496/48000s" ref="r13" duration="3339336/48000s" start="2833326496/48000s" role="dialogue" srcCh="1, 2"/>
                     </video>
-                    <clip lane="1" offset="177139963/3000s" name="2014-04-22 18:04:33" duration="348348/72000s" start="89326237/1500s" tcFormat="NDF">
+                    <clip lane="1" offset="1417043628/24000s" name="2014-04-22 18:04:33" duration="576576/72000s" start="1429143716/24000s" tcFormat="NDF">
                         <video offset="4287431148/72000s" ref="r14" duration="720720/72000s" start="4287431148/72000s">
                             <audio lane="-1" offset="2858287432/48000s" ref="r14" duration="480480/48000s" start="2858287432/48000s" role="dialogue" srcCh="1, 2"/>
                         </video>
