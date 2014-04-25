@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE fcpxml>
+
+<fcpxml version="1.3">
+    <project name="Capsule 01" uid="30006AE8-F8A5-4589-A807-F6FA384CB0FB" eventID="051CFECF-5A20-4C96-9D19-F4C822FE1084" location="file:///Volumes/Data%20HD/PMI%20-%20Gala%20Excellence%20-%202014-04-23.fcpbundle/2014-04-23/Capsule%2001/">
+        <resources>
+            <format id="r1" name="FFVideoFormat1080p2398" frameDuration="1001/24000s" width="1920" height="1080"/>
+            <asset id="r2" name="2014-04-22 12:50:51" uid="FD6F6DE1FCB6EB7DC899CF27230A92CA" src="file:///Volumes/Data%20HD/PMI%20-%20Gala%20Excellence%20-%202014-04-23.fcpbundle/2014-04-23/Original%20Media/2014-04-22%2012_50_51%20(id).mov" start="4030278252/72000s" duration="22162140/72000s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+                <bookmark>Ym9vayQEAAAAAAQQMAAAAG7ZZyz4gLEODbtPppUGqw6GeQMcONOprR3nNCHrMfOnLAMAAAcAAAABAQAAVm9sdW1lcwAHAAAAAQEAAERhdGEgSEQALAAAAAEBAABQTUkgLSBHYWxhIEV4Y2VsbGVuY2UgLSAyMDE0LTA0LTIzLmZjcGJ1bmRsZQoAAAABAQAAMjAxNC0wNC0yMwAADgAAAAEBAABPcmlnaW5hbCBNZWRpYQAAHAAAAAEBAAAyMDE0LTA0LTIyIDEyXzUwXzUxIChpZCkubW92GAAAAAEGAAAEAAAAFAAAACQAAABYAAAAbAAAAIQAAAAIAAAABAMAAIY1AAAAAAAACAAAAAQDAAACAAAAAAAAAAgAAAAEAwAAZ4sEAAAAAAAIAAAABAMAAG2LBAAAAAAACAAAAAQDAABEjAQAAAAAAAgAAAAEAwAAS4wEAAAAAAAYAAAAAQYAAMgAAADYAAAA6AAAAPgAAAAIAQAAGAEAAAgAAAAABAAAQbkG1WsAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAEAAAACAAAAAQDAAAAkBXSdAAAAAgAAAAABAAAQbTccwMAAAAkAAAAAQEAADYwRTI4NTI5LThCMTctMzcwRi1CM0I1LUI2NDU3MTY4MzMwNxgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAAAAAAAAAAEAAAAAEBAAAvVm9sdW1lcy9EYXRhIEhEDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAABweZs5AAAACAAAAAAEAABBuDgE2wAAACQAAAABAQAARTlGRDc2M0ItRTA1Ni0zMjI5LThGNDEtNjVDN0JENTk3REEyAQAAAAEBAAAvAAAAVAAAAP7///8A8AAAAAAAAAYAAAACIAAAcAIAAAAAAAAQIAAAEAIAAAAAAAARIAAARAIAAAAAAAASIAAAJAIAAAAAAAATIAAANAIAAAAAAAAgIAAA2AEAAAAAAAAEAAAAAwMAAADwAAAEAAAAAwMAAAAAAAAEAAAAAwMAAAEAAAAcAAAAAQYAANgCAADkAgAA8AIAAOQCAADkAgAA5AIAAOQCAAAEAAAAAwMAAAAIACjAAAAA/v///wEAAAB8AgAADwAAAAQQAACoAAAAAAAAAAUQAAAoAQAAAAAAABAQAABYAQAAAAAAAEAQAABIAQAAAAAAAFQQAACAAQAAAAAAAFUQAACAAQAAAAAAAFYQAAB4AQAAAAAAAAAgAAD8AgAAAAAAAAIgAAD4AQAAAAAAABAgAAAUAAAAAAAAABEgAACsAQAAAAAAABIgAACMAQAAAAAAABMgAACcAQAAAAAAACAgAADYAQAAAAAAABDQAAAgAwAAAAAAAA==</bookmark>
+                <metadata>
+                    <md key="com.apple.proapps.mio.cameraName" value="Jour 01"/>
+                    <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                        <array>
+                            <string>H.264</string>
+                            <string>Linear PCM</string>
+                        </array>
+                    </md>
+                    <md key="com.apple.proapps.mio.ingestDate" value="2014-04-23 17:35:22 -0400"/>
+                </metadata>
+            </asset>
+            <asset id="r3" name="delegation_nation2-35-Audio AIFF 48000" uid="01DF1BE14EB1E3D4899D8DF1E06BD75C" src="file:///Volumes/Data%20HD/PMI%20-%20Gala%20Excellence%20-%202014-04-23.fcpbundle/2014-04-23/Original%20Media/delegation_nation2-35-Audio%20AIFF%2048000.aiff" start="0s" duration="7529395/48000s" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+                <bookmark>Ym9vazQEAAAAAAQQMAAAAN/G6XJb7n6AzCZMf1MOi7kHyl6223PIVGV/FFtG+TMaPAMAAAcAAAABAQAAVm9sdW1lcwAHAAAAAQEAAERhdGEgSEQALAAAAAEBAABQTUkgLSBHYWxhIEV4Y2VsbGVuY2UgLSAyMDE0LTA0LTIzLmZjcGJ1bmRsZQoAAAABAQAAMjAxNC0wNC0yMwAADgAAAAEBAABPcmlnaW5hbCBNZWRpYQAAKwAAAAEBAABkZWxlZ2F0aW9uX25hdGlvbjItMzUtQXVkaW8gQUlGRiA0ODAwMC5haWZmABgAAAABBgAABAAAABQAAAAkAAAAWAAAAGwAAACEAAAACAAAAAQDAACGNQAAAAAAAAgAAAAEAwAAAgAAAAAAAAAIAAAABAMAAGeLBAAAAAAACAAAAAQDAABtiwQAAAAAAAgAAAAEAwAARIwEAAAAAAAIAAAABAMAAEWRBAAAAAAAGAAAAAEGAADYAAAA6AAAAPgAAAAIAQAAGAEAACgBAAAIAAAAAAQAAEG5CIzJAAAAGAAAAAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAADAwAABAAAAAgAAAAEAwAAAJAV0nQAAAAIAAAAAAQAAEG03HMDAAAAJAAAAAEBAAA2MEUyODUyOS04QjE3LTM3MEYtQjNCNS1CNjQ1NzE2ODMzMDcYAAAAAQIAAIEAAAABAAgA7xcAAAEACAAAAAAAAAAAABAAAAABAQAAL1ZvbHVtZXMvRGF0YSBIRAwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAcHmbOQAAAAgAAAAABAAAQbg4BNsAAAAkAAAAAQEAAEU5RkQ3NjNCLUUwNTYtMzIyOS04RjQxLTY1QzdCRDU5N0RBMgEAAAABAQAALwAAAFQAAAD+////APAAAAAAAAAGAAAAAiAAAIACAAAAAAAAECAAACACAAAAAAAAESAAAFQCAAAAAAAAEiAAADQCAAAAAAAAEyAAAEQCAAAAAAAAICAAAOgBAAAAAAAABAAAAAMDAAAA8AAABAAAAAMDAAAAAAAABAAAAAMDAAABAAAAHAAAAAEGAADoAgAA9AIAAAADAAD0AgAA9AIAAPQCAAD0AgAABAAAAAMDAAAACAAowAAAAP7///8BAAAAjAIAAA8AAAAEEAAAuAAAAAAAAAAFEAAAOAEAAAAAAAAQEAAAaAEAAAAAAABAEAAAWAEAAAAAAABUEAAAkAEAAAAAAABVEAAAkAEAAAAAAABWEAAAiAEAAAAAAAAAIAAADAMAAAAAAAACIAAACAIAAAAAAAAQIAAAFAAAAAAAAAARIAAAvAEAAAAAAAASIAAAnAEAAAAAAAATIAAArAEAAAAAAAAgIAAA6AEAAAAAAAAQ0AAAMAMAAAAAAAA=</bookmark>
+                <metadata>
+                    <md key="com.apple.proapps.mio.ingestDate" value="2014-04-23 20:07:01 -0400"/>
+                </metadata>
+            </asset>
+            <asset id="r4" name="2014-04-22 13:16:23" uid="1E43A1915E83C7C6B3E03965828AA64C" src="file:///Volumes/Data%20HD/PMI%20-%20Gala%20Excellence%20-%202014-04-23.fcpbundle/2014-04-23/Original%20Media/2014-04-22%2013_16_23%20(id).mov" start="4077845772/72000s" duration="1513512/72000s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+                <bookmark>Ym9vayQEAAAAAAQQMAAAAHrdip/ToBj2MOyfPV2VTaIe0kQkqnSw3V/jA9D+UkBILAMAAAcAAAABAQAAVm9sdW1lcwAHAAAAAQEAAERhdGEgSEQALAAAAAEBAABQTUkgLSBHYWxhIEV4Y2VsbGVuY2UgLSAyMDE0LTA0LTIzLmZjcGJ1bmRsZQoAAAABAQAAMjAxNC0wNC0yMwAADgAAAAEBAABPcmlnaW5hbCBNZWRpYQAAHAAAAAEBAAAyMDE0LTA0LTIyIDEzXzE2XzIzIChpZCkubW92GAAAAAEGAAAEAAAAFAAAACQAAABYAAAAbAAAAIQAAAAIAAAABAMAAIY1AAAAAAAACAAAAAQDAAACAAAAAAAAAAgAAAAEAwAAZ4sEAAAAAAAIAAAABAMAAG2LBAAAAAAACAAAAAQDAABEjAQAAAAAAAgAAAAEAwAAr4wEAAAAAAAYAAAAAQYAAMgAAADYAAAA6AAAAPgAAAAIAQAAGAEAAAgAAAAABAAAQbkG22cAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAEAAAACAAAAAQDAAAAkBXSdAAAAAgAAAAABAAAQbTccwMAAAAkAAAAAQEAADYwRTI4NTI5LThCMTctMzcwRi1CM0I1LUI2NDU3MTY4MzMwNxgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAAAAAAAAAAEAAAAAEBAAAvVm9sdW1lcy9EYXRhIEhEDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAABweZs5AAAACAAAAAAEAABBuDgE2wAAACQAAAABAQAARTlGRDc2M0ItRTA1Ni0zMjI5LThGNDEtNjVDN0JENTk3REEyAQAAAAEBAAAvAAAAVAAAAP7///8A8AAAAAAAAAYAAAACIAAAcAIAAAAAAAAQIAAAEAIAAAAAAAARIAAARAIAAAAAAAASIAAAJAIAAAAAAAATIAAANAIAAAAAAAAgIAAA2AEAAAAAAAAEAAAAAwMAAADwAAAEAAAAAwMAAAAAAAAEAAAAAwMAAAEAAAAcAAAAAQYAANgCAADkAgAA8AIAAOQCAADkAgAA5AIAAOQCAAAEAAAAAwMAAAAIACjAAAAA/v///wEAAAB8AgAADwAAAAQQAACoAAAAAAAAAAUQAAAoAQAAAAAAABAQAABYAQAAAAAAAEAQAABIAQAAAAAAAFQQAACAAQAAAAAAAFUQAACAAQAAAAAAAFYQAAB4AQAAAAAAAAAgAAD8AgAAAAAAAAIgAAD4AQAAAAAAABAgAAAUAAAAAAAAABEgAACsAQAAAAAAABIgAACMAQAAAAAAABMgAACcAQAAAAAAACAgAADYAQAAAAAAABDQAAAgAwAAAAAAAA==</bookmark>
+                <metadata>
+                    <md key="com.apple.proapps.mio.cameraName" value="Jour 01"/>
+                    <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                        <array>
+                            <string>H.264</string>
+                            <string>Linear PCM</string>
+                        </array>
+                    </md>
+                    <md key="com.apple.proapps.mio.ingestDate" value="2014-04-23 17:39:07 -0400"/>
+                </metadata>
+            </asset>
+            <asset id="r5" name="2014-04-22 13:15:02" uid="4F07CE912AAAC706A079013EBA2FA00D" src="file:///Volumes/Data%20HD/PMI%20-%20Gala%20Excellence%20-%202014-04-23.fcpbundle/2014-04-23/Original%20Media/2014-04-22%2013_15_02%20(id).mov" start="4074746676/72000s" duration="2162160/72000s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+                <bookmark>Ym9vayQEAAAAAAQQMAAAAOu7cqdE6drsn0+VncuwKix6jaCzVGzOpffe/FCe8QRcLAMAAAcAAAABAQAAVm9sdW1lcwAHAAAAAQEAAERhdGEgSEQALAAAAAEBAABQTUkgLSBHYWxhIEV4Y2VsbGVuY2UgLSAyMDE0LTA0LTIzLmZjcGJ1bmRsZQoAAAABAQAAMjAxNC0wNC0yMwAADgAAAAEBAABPcmlnaW5hbCBNZWRpYQAAHAAAAAEBAAAyMDE0LTA0LTIyIDEzXzE1XzAyIChpZCkubW92GAAAAAEGAAAEAAAAFAAAACQAAABYAAAAbAAAAIQAAAAIAAAABAMAAIY1AAAAAAAACAAAAAQDAAACAAAAAAAAAAgAAAAEAwAAZ4sEAAAAAAAIAAAABAMAAG2LBAAAAAAACAAAAAQDAABEjAQAAAAAAAgAAAAEAwAAmIwEAAAAAAAYAAAAAQYAAMgAAADYAAAA6AAAAPgAAAAIAQAAGAEAAAgAAAAABAAAQbkG2xYAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAEAAAACAAAAAQDAAAAkBXSdAAAAAgAAAAABAAAQbTccwMAAAAkAAAAAQEAADYwRTI4NTI5LThCMTctMzcwRi1CM0I1LUI2NDU3MTY4MzMwNxgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAAAAAAAAAAEAAAAAEBAAAvVm9sdW1lcy9EYXRhIEhEDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAABweZs5AAAACAAAAAAEAABBuDgE2wAAACQAAAABAQAARTlGRDc2M0ItRTA1Ni0zMjI5LThGNDEtNjVDN0JENTk3REEyAQAAAAEBAAAvAAAAVAAAAP7///8A8AAAAAAAAAYAAAACIAAAcAIAAAAAAAAQIAAAEAIAAAAAAAARIAAARAIAAAAAAAASIAAAJAIAAAAAAAATIAAANAIAAAAAAAAgIAAA2AEAAAAAAAAEAAAAAwMAAADwAAAEAAAAAwMAAAAAAAAEAAAAAwMAAAEAAAAcAAAAAQYAANgCAADkAgAA8AIAAOQCAADkAgAA5AIAAOQCAAAEAAAAAwMAAAAIACjAAAAA/v///wEAAAB8AgAADwAAAAQQAACoAAAAAAAAAAUQAAAoAQAAAAAAABAQAABYAQAAAAAAAEAQAABIAQAAAAAAAFQQAACAAQAAAAAAAFUQAACAAQAAAAAAAFYQAAB4AQAAAAAAAAAgAAD8AgAAAAAAAAIgAAD4AQAAAAAAABAgAAAUAAAAAAAAABEgAACsAQAAAAAAABIgAACMAQAAAAAAABMgAACcAQAAAAAAACAgAADYAQAAAAAAABDQAAAgAwAAAAAAAA==</bookmark>
+                <metadata>
+                    <md key="com.apple.proapps.mio.cameraName" value="Jour 01"/>
+                    <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                        <array>
+                            <string>H.264</string>
+                            <string>Linear PCM</string>
+                        </array>
+                    </md>
+                    <md key="com.apple.proapps.mio.ingestDate" value="2014-04-23 17:38:47 -0400"/>
+                </metadata>
+            </asset>
+            <asset id="r6" name="2014-04-22 13:00:54" uid="046C48307DC06A66852B28FA160E99F1" src="file:///Volumes/Data%20HD/PMI%20-%20Gala%20Excellence%20-%202014-04-23.fcpbundle/2014-04-23/Original%20Media/2014-04-22%2013_00_54%20(id).mov" start="4062710652/72000s" duration="6342336/72000s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+                <bookmark>Ym9vayQEAAAAAAQQMAAAAByhb6W9QRN1I99W9rzyWbseG0nqPs5qXxvk5xTfu/MCLAMAAAcAAAABAQAAVm9sdW1lcwAHAAAAAQEAAERhdGEgSEQALAAAAAEBAABQTUkgLSBHYWxhIEV4Y2VsbGVuY2UgLSAyMDE0LTA0LTIzLmZjcGJ1bmRsZQoAAAABAQAAMjAxNC0wNC0yMwAADgAAAAEBAABPcmlnaW5hbCBNZWRpYQAAHAAAAAEBAAAyMDE0LTA0LTIyIDEzXzAwXzU0IChpZCkubW92GAAAAAEGAAAEAAAAFAAAACQAAABYAAAAbAAAAIQAAAAIAAAABAMAAIY1AAAAAAAACAAAAAQDAAACAAAAAAAAAAgAAAAEAwAAZ4sEAAAAAAAIAAAABAMAAG2LBAAAAAAACAAAAAQDAABEjAQAAAAAAAgAAAAEAwAAaIwEAAAAAAAYAAAAAQYAAMgAAADYAAAA6AAAAPgAAAAIAQAAGAEAAAgAAAAABAAAQbkG18YAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAEAAAACAAAAAQDAAAAkBXSdAAAAAgAAAAABAAAQbTccwMAAAAkAAAAAQEAADYwRTI4NTI5LThCMTctMzcwRi1CM0I1LUI2NDU3MTY4MzMwNxgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAAAAAAAAAAEAAAAAEBAAAvVm9sdW1lcy9EYXRhIEhEDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAABweZs5AAAACAAAAAAEAABBuDgE2wAAACQAAAABAQAARTlGRDc2M0ItRTA1Ni0zMjI5LThGNDEtNjVDN0JENTk3REEyAQAAAAEBAAAvAAAAVAAAAP7///8A8AAAAAAAAAYAAAACIAAAcAIAAAAAAAAQIAAAEAIAAAAAAAARIAAARAIAAAAAAAASIAAAJAIAAAAAAAATIAAANAIAAAAAAAAgIAAA2AEAAAAAAAAEAAAAAwMAAADwAAAEAAAAAwMAAAAAAAAEAAAAAwMAAAEAAAAcAAAAAQYAANgCAADkAgAA8AIAAOQCAADkAgAA5AIAAOQCAAAEAAAAAwMAAAAIACjAAAAA/v///wEAAAB8AgAADwAAAAQQAACoAAAAAAAAAAUQAAAoAQAAAAAAABAQAABYAQAAAAAAAEAQAABIAQAAAAAAAFQQAACAAQAAAAAAAFUQAACAAQAAAAAAAFYQAAB4AQAAAAAAAAAgAAD8AgAAAAAAAAIgAAD4AQAAAAAAABAgAAAUAAAAAAAAABEgAACsAQAAAAAAABIgAACMAQAAAAAAABMgAACcAQAAAAAAACAgAADYAQAAAAAAABDQAAAgAwAAAAAAAA==</bookmark>
+                <metadata>
+                    <md key="com.apple.proapps.mio.cameraName" value="Jour 01"/>
+                    <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                        <array>
+                            <string>H.264</string>
+                            <string>Linear PCM</string>
+                        </array>
+                    </md>
+                    <md key="com.apple.proapps.mio.ingestDate" value="2014-04-23 17:37:25 -0400"/>
+                </metadata>
+            </asset>
+            <asset id="r7" name="2014-04-22 13:13:23" uid="A7509B49D7C5EE573543AC1230006664" src="file:///Volumes/Data%20HD/PMI%20-%20Gala%20Excellence%20-%202014-04-23.fcpbundle/2014-04-23/Original%20Media/2014-04-22%2013_13_23%20(id).mov" start="4071359292/72000s" duration="972972/72000s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+                <bookmark>Ym9vayQEAAAAAAQQMAAAABxGtw3/rkVCA9AAO5fWx5hB5ssurKhNn3QPagkAlwzsLAMAAAcAAAABAQAAVm9sdW1lcwAHAAAAAQEAAERhdGEgSEQALAAAAAEBAABQTUkgLSBHYWxhIEV4Y2VsbGVuY2UgLSAyMDE0LTA0LTIzLmZjcGJ1bmRsZQoAAAABAQAAMjAxNC0wNC0yMwAADgAAAAEBAABPcmlnaW5hbCBNZWRpYQAAHAAAAAEBAAAyMDE0LTA0LTIyIDEzXzEzXzIzIChpZCkubW92GAAAAAEGAAAEAAAAFAAAACQAAABYAAAAbAAAAIQAAAAIAAAABAMAAIY1AAAAAAAACAAAAAQDAAACAAAAAAAAAAgAAAAEAwAAZ4sEAAAAAAAIAAAABAMAAG2LBAAAAAAACAAAAAQDAABEjAQAAAAAAAgAAAAEAwAAgIwEAAAAAAAYAAAAAQYAAMgAAADYAAAA6AAAAPgAAAAIAQAAGAEAAAgAAAAABAAAQbkG2rMAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAEAAAACAAAAAQDAAAAkBXSdAAAAAgAAAAABAAAQbTccwMAAAAkAAAAAQEAADYwRTI4NTI5LThCMTctMzcwRi1CM0I1LUI2NDU3MTY4MzMwNxgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAAAAAAAAAAEAAAAAEBAAAvVm9sdW1lcy9EYXRhIEhEDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAABweZs5AAAACAAAAAAEAABBuDgE2wAAACQAAAABAQAARTlGRDc2M0ItRTA1Ni0zMjI5LThGNDEtNjVDN0JENTk3REEyAQAAAAEBAAAvAAAAVAAAAP7///8A8AAAAAAAAAYAAAACIAAAcAIAAAAAAAAQIAAAEAIAAAAAAAARIAAARAIAAAAAAAASIAAAJAIAAAAAAAATIAAANAIAAAAAAAAgIAAA2AEAAAAAAAAEAAAAAwMAAADwAAAEAAAAAwMAAAAAAAAEAAAAAwMAAAEAAAAcAAAAAQYAANgCAADkAgAA8AIAAOQCAADkAgAA5AIAAOQCAAAEAAAAAwMAAAAIACjAAAAA/v///wEAAAB8AgAADwAAAAQQAACoAAAAAAAAAAUQAAAoAQAAAAAAABAQAABYAQAAAAAAAEAQAABIAQAAAAAAAFQQAACAAQAAAAAAAFUQAACAAQAAAAAAAFYQAAB4AQAAAAAAAAAgAAD8AgAAAAAAAAIgAAD4AQAAAAAAABAgAAAUAAAAAAAAABEgAACsAQAAAAAAABIgAACMAQAAAAAAABMgAACcAQAAAAAAACAgAADYAQAAAAAAABDQAAAgAwAAAAAAAA==</bookmark>
+                <metadata>
+                    <md key="com.apple.proapps.mio.cameraName" value="Jour 01"/>
+                    <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                        <array>
+                            <string>H.264</string>
+                            <string>Linear PCM</string>
+                        </array>
+                    </md>
+                    <md key="com.apple.proapps.mio.ingestDate" value="2014-04-23 17:38:21 -0400"/>
+                </metadata>
+            </asset>
+            <asset id="r8" name="2014-04-22 13:14:33" uid="2C90C6A8FA755345B85BE9BBB056C416" src="file:///Volumes/Data%20HD/PMI%20-%20Gala%20Excellence%20-%202014-04-23.fcpbundle/2014-04-23/Original%20Media/2014-04-22%2013_14_33%20(id).mov" start="4073809740/72000s" duration="936936/72000s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+                <bookmark>Ym9vayQEAAAAAAQQMAAAALucRkASB1m+SqbEktDWiMjGywsrAcrCxUmzSVNcINrcLAMAAAcAAAABAQAAVm9sdW1lcwAHAAAAAQEAAERhdGEgSEQALAAAAAEBAABQTUkgLSBHYWxhIEV4Y2VsbGVuY2UgLSAyMDE0LTA0LTIzLmZjcGJ1bmRsZQoAAAABAQAAMjAxNC0wNC0yMwAADgAAAAEBAABPcmlnaW5hbCBNZWRpYQAAHAAAAAEBAAAyMDE0LTA0LTIyIDEzXzE0XzMzIChpZCkubW92GAAAAAEGAAAEAAAAFAAAACQAAABYAAAAbAAAAIQAAAAIAAAABAMAAIY1AAAAAAAACAAAAAQDAAACAAAAAAAAAAgAAAAEAwAAZ4sEAAAAAAAIAAAABAMAAG2LBAAAAAAACAAAAAQDAABEjAQAAAAAAAgAAAAEAwAAiYwEAAAAAAAYAAAAAQYAAMgAAADYAAAA6AAAAPgAAAAIAQAAGAEAAAgAAAAABAAAQbkG2vkAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAEAAAACAAAAAQDAAAAkBXSdAAAAAgAAAAABAAAQbTccwMAAAAkAAAAAQEAADYwRTI4NTI5LThCMTctMzcwRi1CM0I1LUI2NDU3MTY4MzMwNxgAAAABAgAAgQAAAAEACADvFwAAAQAIAAAAAAAAAAAAEAAAAAEBAAAvVm9sdW1lcy9EYXRhIEhEDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAABweZs5AAAACAAAAAAEAABBuDgE2wAAACQAAAABAQAARTlGRDc2M0ItRTA1Ni0zMjI5LThGNDEtNjVDN0JENTk3REEyAQAAAAEBAAAvAAAAVAAAAP7///8A8AAAAAAAAAYAAAACIAAAcAIAAAAAAAAQIAAAEAIAAAAAAAARIAAARAIAAAAAAAASIAAAJAIAAAAAAAATIAAANAIAAAAAAAAgIAAA2AEAAAAAAAAEAAAAAwMAAADwAAAEAAAAAwMAAAAAAAAEAAAAAwMAAAEAAAAcAAAAAQYAANgCAADkAgAA8AIAAOQCAADkAgAA5AIAAOQCAAAEAAAAAwMAAAAIACjAAAAA/v///wEAAAB8AgAADwAAAAQQAACoAAAAAAAAAAUQAAAoAQAAAAAAABAQAABYAQAAAAAAAEAQAABIAQAAAAAAAFQQAACAAQAAAAAAAFUQAACAAQAAAAAAAFYQAAB4AQAAAAAAAAAgAAD8AgAAAAAAAAIgAAD4AQAAAAAAABAgAAAUAAAAAAAAABEgAACsAQAAAAAAABIgAACMAQAAAAAAABMgAACcAQAAAAAAACAgAADYAQAAAAAAABDQAAAgAwAAAAAAAA==</bookmark>
+                <metadata>
+                    <md key="com.apple.proapps.mio.cameraName" value="Jour 01"/>
+                    <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                        <array>
+                            <string>H.264</string>
+                            <string>Linear PCM</string>
+                        </array>
+                    </md>
+                    <md key="com.apple.proapps.mio.ingestDate" value="2014-04-23 17:38:38 -0400"/>
+                </metadata>
+            </asset>
+        </resources>
+        <sequence duration="15747732/72000s" format="r1" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k" renderFormat="FFRenderFormatProRes422Proxy">
+            <spine>
+                <clip offset="0s" name="2014-04-22 12:50:51" duration="1801800/72000s" start="8401393/150s" tcFormat="NDF">
+                    <video offset="4030278252/72000s" ref="r2" duration="22162140/72000s" start="4030278252/72000s">
+                        <audio lane="-1" offset="2686852168/48000s" ref="r2" duration="14774760/48000s" start="2686852168/48000s" role="dialogue" srcCh="1, 2"/>
+                    </video>
+                    <clip lane="-1" offset="8401393/150s" name="delegation_nation2-35-Audio AIFF 48000" duration="7529395/48000s">
+                        <adjust-volume amount="-22dB"/>
+                        <audio offset="0s" ref="r3" duration="7529395/48000s" role="dialogue" srcCh="1, 2"/>
+                    </clip>
+                    <clip lane="1" offset="1344780437/24000s" name="2014-04-22 13:16:23" duration="300300/72000s" start="42481439/750s" tcFormat="NDF">
+                        <video offset="4077845772/72000s" ref="r4" duration="1513512/72000s" start="4077845772/72000s">
+                            <audio lane="-1" offset="2718563848/48000s" ref="r4" duration="1009008/48000s" start="2718563848/48000s" role="dialogue" srcCh="1, 2"/>
+                        </video>
+                        <metadata>
+                            <md key="com.apple.proapps.studio.reel" value="Jour 01"/>
+                        </metadata>
+                    </clip>
+                    <metadata>
+                        <md key="com.apple.proapps.studio.reel" value="Jour 01"/>
+                    </metadata>
+                </clip>
+                <clip offset="1801800/72000s" name="2014-04-22 12:50:51" duration="1666665/72000s" start="224200977/4000s" tcFormat="NDF">
+                    <video offset="4030278252/72000s" ref="r2" duration="22162140/72000s" start="4030278252/72000s">
+                        <audio lane="-1" offset="2686852168/48000s" ref="r2" duration="14774760/48000s" start="2686852168/48000s" role="dialogue" srcCh="1, 2"/>
+                    </video>
+                    <clip lane="1" offset="1345709365/24000s" name="2014-04-22 13:15:02" duration="306306/72000s" start="1358691334/24000s" tcFormat="NDF">
+                        <video offset="4074746676/72000s" ref="r5" duration="2162160/72000s" start="4074746676/72000s">
+                            <audio lane="-1" offset="2716497784/48000s" ref="r5" duration="1441440/48000s" start="2716497784/48000s" role="dialogue" srcCh="1, 2"/>
+                        </video>
+                        <metadata>
+                            <md key="com.apple.proapps.studio.reel" value="Jour 01"/>
+                        </metadata>
+                    </clip>
+                    <metadata>
+                        <md key="com.apple.proapps.studio.reel" value="Jour 01"/>
+                    </metadata>
+                </clip>
+                <clip offset="3468465/72000s" name="2014-04-22 13:00:54" duration="4516512/72000s" start="1354732379/24000s" tcFormat="NDF">
+                    <video offset="4062710652/72000s" ref="r6" duration="6342336/72000s" start="4062710652/72000s">
+                        <audio lane="-1" offset="2708473768/48000s" ref="r6" duration="4228224/48000s" start="2708473768/48000s" role="dialogue" srcCh="1, 2"/>
+                    </video>
+                    <clip lane="1" offset="1356188834/24000s" name="2014-04-22 13:13:23" duration="252252/72000s" start="1357216861/24000s" tcFormat="NDF">
+                        <video offset="4071359292/72000s" ref="r7" duration="972972/72000s" start="4071359292/72000s">
+                            <audio lane="-1" offset="2714239528/48000s" ref="r7" duration="648648/48000s" start="2714239528/48000s" role="dialogue" srcCh="1, 2"/>
+                        </video>
+                        <metadata>
+                            <md key="com.apple.proapps.studio.reel" value="Jour 01"/>
+                        </metadata>
+                    </clip>
+                    <metadata>
+                        <md key="com.apple.proapps.studio.reel" value="Jour 01"/>
+                    </metadata>
+                </clip>
+                <clip offset="7984977/72000s" name="2014-04-22 12:50:51" duration="4273269/72000s" start="449159711/8000s" tcFormat="NDF">
+                    <video offset="4030278252/72000s" ref="r2" duration="22162140/72000s" start="4030278252/72000s">
+                        <audio lane="-1" offset="2686852168/48000s" ref="r2" duration="14774760/48000s" start="2686852168/48000s" role="dialogue" srcCh="1, 2"/>
+                    </video>
+                    <clip lane="1" offset="1348850503/24000s" name="2014-04-22 13:14:33" duration="249249/72000s" start="67896829/1200s" tcFormat="NDF">
+                        <video offset="4073809740/72000s" ref="r8" duration="936936/72000s" start="4073809740/72000s">
+                            <audio lane="-1" offset="2715873160/48000s" ref="r8" duration="624624/48000s" start="2715873160/48000s" role="dialogue" srcCh="1, 2"/>
+                        </video>
+                        <metadata>
+                            <md key="com.apple.proapps.studio.reel" value="Jour 01"/>
+                        </metadata>
+                    </clip>
+                    <metadata>
+                        <md key="com.apple.proapps.studio.reel" value="Jour 01"/>
+                    </metadata>
+                </clip>
+                <clip offset="12258246/72000s" name="2014-04-22 12:50:51" duration="3489486/72000s" start="1349439091/24000s" tcFormat="NDF">
+                    <video offset="4030278252/72000s" ref="r2" duration="22162140/72000s" start="4030278252/72000s">
+                        <audio lane="-1" offset="2686852168/48000s" ref="r2" duration="14774760/48000s" start="2686852168/48000s" role="dialogue" srcCh="1, 2"/>
+                    </video>
+                    <metadata>
+                        <md key="com.apple.proapps.studio.reel" value="Jour 01"/>
+                    </metadata>
+                </clip>
+            </spine>
+        </sequence>
+    </project>
+</fcpxml>
