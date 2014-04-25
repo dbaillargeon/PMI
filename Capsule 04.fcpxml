@@ -236,13 +236,6 @@
                             <md key="com.apple.proapps.studio.reel" value="Jour 01"/>
                         </metadata>
                     </clip>
-                    <video lane="1" offset="1414278866/24000s" ref="r4" name="Custom" duration="245245/120000s" start="86486400/24000s">
-                        <adjust-blend>
-                            <param name="amount">
-                                <fadeOut type="linear" duration="137550/720000s"/>
-                            </param>
-                        </adjust-blend>
-                    </video>
                     <metadata>
                         <md key="com.apple.proapps.studio.reel" value="Jour 01"/>
                     </metadata>
